@@ -1,0 +1,13 @@
+.row{
+    padding:15px;
+    background-color: #a1b5cb;
+
+}
+.contenedor{
+    width:auto;
+
+}
+.parte1, .parte2{
+display: inlaine-block;
+text-align:justify;
+}
